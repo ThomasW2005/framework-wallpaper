@@ -2,54 +2,66 @@
 
 Inspired by Windows 11 default Backgrounds
 
-### `Framework 16.png`
+### `framework_16_black.png`
 
-![Framework 16.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016.png)
+![framework_16_black.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_black.png)
 
-### `Framework 16_Win11.png`
+### `framework_16_blue_dark.png`
 
-![Framework 16_Win11.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_Win11.png)
+![framework_16_blue_dark.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_blue_dark.png)
 
-### `Framework 16_Win11_empty.png`
+### `framework_16_blue_vibrant.png`
 
-![Framework 16_Win11_empty.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_Win11_empty.png)
+![framework_16_blue_vibrant.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_blue_vibrant.png)
 
-### `Framework 16_Win11_empty_bw.png`
+### `framework_16_gray_dark.png`
 
-![Framework 16_Win11_empty_bw.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_Win11_empty_bw.png)
+![framework_16_gray_dark.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_gray_dark.png)
 
-### `Framework 16_Win11_top.png`
+### `framework_16_gray_light.png`
 
-![Framework 16_Win11_top.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_Win11_top.png)
+![framework_16_gray_light.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_gray_light.png)
 
-### `Framework 16_blue_vibrant.png`
+### `framework_16_green.png`
 
-![Framework 16_blue_vibrant.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_blue_vibrant.png)
+![framework_16_green.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_green.png)
 
-### `Framework 16_dark_purple.png`
+### `framework_16_jade.png`
 
-![Framework 16_dark_purple.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_dark_purple.png)
+![framework_16_jade.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_jade.png)
 
-### `Framework 16_darkblue.png`
+### `framework_16_platin.png`
 
-![Framework 16_darkblue.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_darkblue.png)
+![framework_16_platin.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_platin.png)
 
-### `Framework 16_darker.png`
+### `framework_16_purple.png`
 
-![Framework 16_darker.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_darker.png)
+![framework_16_purple.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_purple.png)
 
-### `Framework 16_green.png`
+### `framework_16_purple_dark.png`
 
-![Framework 16_green.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_green.png)
+![framework_16_purple_dark.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_16_purple_dark.png)
 
-### `Framework 16_jade.png`
+### `framework_blue.png`
 
-![Framework 16_jade.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_jade.png)
+![framework_blue.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_blue.png)
 
-### `Framework 16_platin.png`
+### `framework_windows_blue.png`
 
-![Framework 16_platin.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_platin.png)
+![framework_windows_blue.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_windows_blue.png)
 
-### `Framework 16_purple_strong.png`
+### `framework_windows_gray.png`
 
-![Framework 16_purple_strong.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/Framework%2016_purple_strong.png)
+![framework_windows_gray.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_windows_gray.png)
+
+### `framework_windows_gray_center.png`
+
+![framework_windows_gray_center.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_windows_gray_center.png)
+
+### `framework_windows_purple.png`
+
+![framework_windows_purple.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_windows_purple.png)
+
+### `framework_windows_startmenu.png`
+
+![framework_windows_startmenu.png](https://raw.githubusercontent.com/ThomasW2005/framework-wallpaper/main/framework_windows_startmenu.png)
